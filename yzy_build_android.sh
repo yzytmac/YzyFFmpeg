@@ -29,4 +29,4 @@ export ADDI_CFLAGS="-marm"
 $ADDITIONAL_CONFIGURE_FLAG
 make clean
 make
-make install
+make install 
