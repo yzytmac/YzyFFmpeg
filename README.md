@@ -1,5 +1,5 @@
 # YzyFFmpeg
-编译ffmpeg  
+Ubuntu下编译ffmpeg  
 首先在此像雷神致敬，感谢这种无私奉献的人，永远活在我们的心中  
 ## 编译步骤： ##  
 1、下载FFmpeg源码 www.ffmpeg.org  
