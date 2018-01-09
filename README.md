@@ -1,8 +1,8 @@
 # YzyFFmpeg
 编译ffmpeg  
 首先在此像雷神致敬，感谢这种无私奉献的人，永远活在我们的心中  
-##编译步骤：##  
-1、下载FFmpeg源码www.ffmpeg.org  
+## 编译步骤： ##  
+1、下载FFmpeg源码 www.ffmpeg.org  
 2、配置ndk环境  
 3、在下载好的ffmpeg的源码中创建一个shell脚本yzy_build_android.sh  
 4、修改configure脚本，不然编译出来的so库中so在文件名中间，Android无法识别，如：“libavcodec.so.5.100.1”  
