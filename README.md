@@ -1,6 +1,8 @@
 # YzyFFmpeg
 Ubuntu下编译ffmpeg  
-首先在此像雷神致敬，感谢这种无私奉献的人，永远活在我们的心中  
+首先在此像雷神致敬，感谢这种无私奉献的人，永远活在我们的心中 
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
 ## 编译步骤： ##  
 1、下载FFmpeg源码 www.ffmpeg.org  
 2、配置ndk环境  
